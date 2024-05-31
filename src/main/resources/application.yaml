@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: barmap
+server:
+  port: 8981
